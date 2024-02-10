@@ -9,7 +9,7 @@
 This is Widya Wicara command line interface to help developer increase productivity and this is open sourced
 
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#how to use)
 
 ## Installation
 ### From NPM Packages 
@@ -21,9 +21,15 @@ This is Widya Wicara command line interface to help developer increase productiv
 npm install -g @normadani/wcr 
 ```
 
-## Usage
+## How to Use
 - set discord webhook url config 
 
 ```
+wcr set-config -dw <DISCORD_WEBHOOK_URL>
+```
 
+- send message to discord to let user know if some task is done
+
+```
+wcr message <YOUR MESSAGE   >
 ```
