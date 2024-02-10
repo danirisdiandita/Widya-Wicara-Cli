@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wicaralogocli.jpg" height=120>
+  <img src="assets/wicaralogocli.jpg" height=240>
 </p>
 
 This is Widya Wicara command line interface to help developer increase productivity and this is open sourced
