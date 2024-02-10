@@ -24,8 +24,8 @@ npm install -g @normadani/wcr
 wcr set-config -dw <DISCORD_WEBHOOK_URL>
 ```
 
-- send message to discord to let user know if some task is done
+- send message to discord to let user know if some task is done (e.g. building docker)
 
 ```
-wcr message "udah kelar nich ngebuild notulensi engine"
+docker compose up -d --build && wcr message "udah kelar nich ngebuild notulensi engine"
 ```
