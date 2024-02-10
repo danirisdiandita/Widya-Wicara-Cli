@@ -9,7 +9,7 @@
 This is Widya Wicara command line interface to help developer increase productivity and this is open sourced
 
 - [Installation](#installation)
-- [Usage](#how to use)
+- [How to Use](#howtouse)
 
 ## Installation
 ### From NPM Packages 
