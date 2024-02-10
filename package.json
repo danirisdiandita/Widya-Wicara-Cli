@@ -1,5 +1,5 @@
 {
-  "name": "@danirisdiandita/Widya-Wicara-Cli",
+  "name": "@danirisdiandita/widya-wicara-cli",
   "bin": {
     "wcr": "./dist/index.js"
   }, 
