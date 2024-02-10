@@ -53,7 +53,7 @@ program.command('set-config').description('set configuration, example: wcr set-c
         }
     })
 
-program.command('message').description('send message to discord').action((opts, msg) => {
+program.command('message').description('send message to discord, example: wcr message "udah kelar nich ngebuild notulensi engine"').action((opts, msg) => {
      sendMessage(msg.args[0])
 })
 

@@ -1,3 +1,5 @@
+# Widya Wicara CLI
+
 <p align="center">
   <img src="assets/wicaralogocli.jpg" height=240>
 </p>
