@@ -8,8 +8,20 @@
 
 This is Widya Wicara command line interface to help developer increase productivity and this is open sourced
 
+- [Installation](#installation)
+- [Usage](#usage)
 
-Usage: 
+## Installation
+### From NPM Packages 
+#### Prerequisites
+- nodejs 16 or later 
+#### Installing 
+
+```
+npm install -g @normadani/wcr 
+```
+
+## Usage
 - set discord webhook url config 
 
 ```
