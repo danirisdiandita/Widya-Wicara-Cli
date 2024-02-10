@@ -1,10 +1,6 @@
-```
- __        ___                        ____ _ _ 
- \ \      / (_) ___ __ _ _ __ __ _   / ___| (_)
-  \ \ /\ / /| |/ __/ _` | '__/ _` | | |   | | |
-   \ V  V / | | (_| (_| | | | (_| | | |___| | |
-    \_/\_/  |_|\___\__,_|_|  \__,_|  \____|_|_|
-```
+<p align="center">
+  <img src="assets/wicaralogocli.jpg" height=120>
+</p>
 
 This is Widya Wicara command line interface to help developer increase productivity and this is open sourced
 
@@ -31,5 +27,5 @@ wcr set-config -dw <DISCORD_WEBHOOK_URL>
 - send message to discord to let user know if some task is done
 
 ```
-wcr message <YOUR MESSAGE   >
+wcr message "udah kelar nich ngebuild notulensi engine"
 ```
