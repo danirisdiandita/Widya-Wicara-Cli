@@ -1,5 +1,5 @@
 {
-  "name": "wcr",
+  "name": "@normadani/wcr",
   "bin": {
     "wcr": "./dist/index.js"
   }, 
