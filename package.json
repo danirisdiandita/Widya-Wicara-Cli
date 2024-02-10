@@ -10,9 +10,10 @@
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["wcr", "Widya Wicara"],
+  "author": "Norma Dani Risdiandita",
   "license": "ISC",
+  "repository": "https://github.com/danirisdiandita/Widya-Wicara-Cli",
   "dependencies": {
     "@types/figlet": "^1.5.8",
     "axios": "^1.6.7",
